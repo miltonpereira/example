@@ -1,2 +1,2 @@
-from ..feb.fibo import *
+from feb.fibo import *
 
